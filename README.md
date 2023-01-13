@@ -1,5 +1,4 @@
-# sidmanu.github.io 
-Hello, World! 
+# Hello, World! 
 
 Well - it all starts from that iconic phrase. All our coding journeys - back in the day in Basic, C++, Java and now in Python or some other cool language. Pretty much, the first Ma, Mum mum, Dada phrase in the real world for a kid! 
 
